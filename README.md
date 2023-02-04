@@ -1,2 +1,2 @@
 # Areej-Projects
-My projrcts in multiple programming languages 
+My projects in multiple programming languages 
